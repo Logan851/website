@@ -6,15 +6,19 @@ header {
 
 body {
     margin: 0px;
+    background-color: gainsboro;
 }
 
 main {
-    max-width: 900px;
+    max-width:900px
     margin: 20px auto;
     padding: 20px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-size: 60px;
+    font-style:oblique;
+    color: gainsboro;
 }
