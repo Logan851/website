@@ -1,0 +1,20 @@
+header {
+    background-color: grey;    
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
