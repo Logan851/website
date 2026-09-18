@@ -3,7 +3,7 @@ header {
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
-    text-align: center;
+    text-align: center;]
 }
 
 body {
@@ -19,6 +19,16 @@ main {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+footer {
+  background-color: grey;
+  padding: 60px 60px;
+  margin: 0px;
+}
+
+.copyright {
+  text-align: right;
+}
+
 h1 {
     font-size: 60px;
     font-style:oblique;
@@ -30,6 +40,7 @@ h1 {
 
 .list {
     text-align: left;
+    font-size: x-large;
 }
 
 .menu {
@@ -55,3 +66,8 @@ h1 {
 .menu_item.active {
   background-color: #353535;
 }
+
+p {
+  font-size:x-large;
+}
+
